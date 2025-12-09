@@ -1,3 +1,10 @@
-# Seizure Prediction HF Space
-Upload an EEG (.edf) file and get seizure probability.
-Place `best_model.h5` in the root of your Space.
+---
+title: EEG Seizure Detector
+emoji: ⚡
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+sdk_version: "4.29.0"
+app_file: app.py
+pinned: false
+---
